@@ -1,0 +1,11 @@
+--2016-09-20 16:26:58--  http://ichart.finance.yahoo.com/table.csv?s=DF&a=00&b=1&c=2000&d=03&e=1&f=2013&g=m&ignore=.csv
+Resolving ichart.finance.yahoo.com (ichart.finance.yahoo.com)... 203.84.220.151, 2406:2000:108:2::1001, 2406:2000:108:2::1000
+Connecting to ichart.finance.yahoo.com (ichart.finance.yahoo.com)|203.84.220.151|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/csv]
+Saving to: ‘DF.csv’
+
+     0K ..........                                             98.8K=0.1s
+
+2016-09-20 16:27:10 (98.8 KB/s) - ‘DF.csv’ saved [10723]
+
